@@ -1,0 +1,13 @@
+Nomor,Pilihan Jawaban,Seberapa sering anda menggunakan bahasa pemrograman C?,Seberapa tahukah anda tentang bahasa permograman Java?,Pernahkah anda membuat program menggunakan bahasa pemrograman Python?,Seberapa tahukah anda tentang Pemrograman Interface (API)?,Seberapa tahukah anda tentang Pemrograman Berorientasi Objek (OOP)?,Seberapa sering anda menggunakan programming software bajakan?,Seberapa perlunya dokumen manual/tutorial ketika membuat program?,Pernakah anda melakukan trial dan error atau mengembangkan program yang dibuat orang lain?,Seberapa seringkah anda menggunakan Extension saat membuat program?,"Seberapa sering anda mengelola (menginstal,menghapus,menonaktifkan instalasi) Extension anda?", Apakah anda sering menggunakan Extension berbayar?, Apakah anda sering menggunakan Auto Indent Extension?
+1,Sangat Sering,16,0,10,0,0,27,0,29,16,18,4,6
+2,Sering,64,0,26,0,0,75,0,69,56,72,33,35
+3,Jarang,181,0,63,0,0,130,0,83,133,143,87,90
+4,Hanya Sekali,42,0,55,0,0,60,0,28,21,29,38,31
+5,Tidak Sama Sekali,197,159,346,200,196,208,48,291,274,238,338,338
+6,Sangat Tahu,0,10,0,9,17,0,0,0,0,0,0,0
+7,Tahu,0,69,0,49,64,0,0,0,0,0,0,0
+8,Ragu-Ragu,0,87,0,75,70,0,51,0,0,0,0,0
+9,Kurang Tahu,0,175,0,167,153,0,0,0,0,0,0,0
+10,Sangat Dibutuhkan,0,0,0,0,0,0,172,0,0,0,0,0
+11,Dibutuhkan,0,0,0,0,0,0,187,0,0,0,0,0
+12,Kurang Dibutukan,0,0,0,0,0,0,42,0,0,0,0,0
